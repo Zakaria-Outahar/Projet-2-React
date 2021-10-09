@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Projet-2-React/static/css/main.1c883d82.chunk.css",
+    "main.js": "/Projet-2-React/static/js/main.bd225ada.chunk.js",
+    "main.js.map": "/Projet-2-React/static/js/main.bd225ada.chunk.js.map",
+    "runtime-main.js": "/Projet-2-React/static/js/runtime-main.33cb084e.js",
+    "runtime-main.js.map": "/Projet-2-React/static/js/runtime-main.33cb084e.js.map",
+    "static/js/2.de2220ec.chunk.js": "/Projet-2-React/static/js/2.de2220ec.chunk.js",
+    "static/js/2.de2220ec.chunk.js.map": "/Projet-2-React/static/js/2.de2220ec.chunk.js.map",
+    "index.html": "/Projet-2-React/index.html",
+    "static/css/main.1c883d82.chunk.css.map": "/Projet-2-React/static/css/main.1c883d82.chunk.css.map",
+    "static/js/2.de2220ec.chunk.js.LICENSE.txt": "/Projet-2-React/static/js/2.de2220ec.chunk.js.LICENSE.txt",
+    "static/media/left-arrow.da21225b.svg": "/Projet-2-React/static/media/left-arrow.da21225b.svg",
+    "static/media/right-arrow.d19ce8f8.svg": "/Projet-2-React/static/media/right-arrow.d19ce8f8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33cb084e.js",
+    "static/js/2.de2220ec.chunk.js",
+    "static/css/main.1c883d82.chunk.css",
+    "static/js/main.bd225ada.chunk.js"
+  ]
+}
